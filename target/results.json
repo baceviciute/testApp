@@ -1,0 +1,38 @@
+{
+  "exams": [
+    {
+      "examId": 1,
+      "examName": "OOP pagrindai",
+      "examResults": [
+        {
+          "studentId": 122,
+          "studentName": "Ona",
+          "studentLastName": "Onaityte",
+          "grade": 10,
+          "date": "2019-03-01 17:31"
+        },
+        {
+          "studentId": 152,
+          "studentName": "Kristina",
+          "studentLastName": "Vistinyte",
+          "grade": 7,
+          "date": "2019-03-01 17:33"
+        },
+        {
+          "studentId": 144,
+          "studentName": "Petras",
+          "studentLastName": "Petraitis",
+          "grade": 2,
+          "date": "2019-03-01 17:33"
+        },
+        {
+          "studentId": 188,
+          "studentName": "Mantas",
+          "studentLastName": "Tomkus",
+          "grade": 7,
+          "date": "2019-03-01 18:31"
+        }
+      ]
+    }
+  ]
+}

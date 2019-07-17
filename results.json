@@ -1,0 +1,17 @@
+{
+  "exams": [
+    {
+      "examId": 1,
+      "examName": "OOP pagrindai",
+      "examResults": [
+        {
+          "studentId": 122,
+          "studentName": "Ona",
+          "studentLastName": "Onaityte",
+          "grade": 10,
+          "date": "2019-02-28 00:24"
+        }
+      ]
+    }
+  ]
+}

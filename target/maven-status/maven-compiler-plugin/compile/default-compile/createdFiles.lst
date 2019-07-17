@@ -1,0 +1,15 @@
+ExamToWriteToFile.class
+CreateExamResultsFromJson.class
+ExamAnswer.class
+Checker.class
+CreateStudentFromJson.class
+Student.class
+CreateExamFromJson.class
+Process.class
+StudentToWriteToFile.class
+WriteToFile.class
+Main.class
+Exam.class
+ReadFile.class
+AnswerCheck.class
+ResultsToWriteToFile.class
